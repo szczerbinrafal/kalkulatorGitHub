@@ -54,5 +54,13 @@ namespace KalkulatorGitHub
             }
            
         }
+
+        private void potegowanie_Click(object sender, EventArgs e)
+        {
+            decimal li1, li2;
+            li1 = Convert.ToDecimal(textBox1.Text);
+            //li2 = Convert.ToDecimal(textBox2.Text);
+            textBox2.Text = Convert.ToString(li1 * li1);
+        }
     }
 }
