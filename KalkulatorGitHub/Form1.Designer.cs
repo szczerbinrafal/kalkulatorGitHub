@@ -35,6 +35,9 @@
             this.InputA = new System.Windows.Forms.TextBox();
             this.InputB = new System.Windows.Forms.TextBox();
             this.Result = new System.Windows.Forms.TextBox();
+            this.potegowanie = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // Add
@@ -98,11 +101,38 @@
             this.Result.Size = new System.Drawing.Size(100, 20);
             this.Result.TabIndex = 7;
             // 
+            // potegowanie
+            // 
+            this.potegowanie.Location = new System.Drawing.Point(284, 70);
+            this.potegowanie.Name = "potegowanie";
+            this.potegowanie.Size = new System.Drawing.Size(99, 29);
+            this.potegowanie.TabIndex = 8;
+            this.potegowanie.Text = "potęgowanie 2";
+            this.potegowanie.UseVisualStyleBackColor = true;
+            this.potegowanie.Click += new System.EventHandler(this.potegowanie_Click);
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(294, 120);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(89, 20);
+            this.textBox1.TabIndex = 9;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(296, 155);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(87, 20);
+            this.textBox2.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(405, 215);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.potegowanie);
             this.Controls.Add(this.Result);
             this.Controls.Add(this.InputB);
             this.Controls.Add(this.InputA);
@@ -126,6 +156,9 @@
         private System.Windows.Forms.TextBox InputA;
         private System.Windows.Forms.TextBox InputB;
         private System.Windows.Forms.TextBox Result;
+        private System.Windows.Forms.Button potegowanie;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
     }
 }
 
