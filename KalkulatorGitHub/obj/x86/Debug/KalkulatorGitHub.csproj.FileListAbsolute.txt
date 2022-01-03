@@ -12,3 +12,11 @@ C:\Users\student\Desktop\kalkulatorGitHub\KalkulatorGitHub\bin\Debug\KalkulatorG
 C:\Users\student\Desktop\kalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.Form1.resources
 C:\Users\student\Desktop\kalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.Properties.Resources.resources
 C:\Users\student\Desktop\kalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.csproj.GenerateResource.Cache
+C:\Users\student.robbie-Komputer\Desktop\git\kalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.exe
+C:\Users\student.robbie-Komputer\Desktop\git\kalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.pdb
+C:\Users\student.robbie-Komputer\Desktop\git\kalkulatorGitHub\KalkulatorGitHub\bin\Debug\KalkulatorGitHub.exe
+C:\Users\student.robbie-Komputer\Desktop\git\kalkulatorGitHub\KalkulatorGitHub\bin\Debug\KalkulatorGitHub.pdb
+C:\Users\student.robbie-Komputer\Desktop\git\kalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.csprojResolveAssemblyReference.cache
+C:\Users\student.robbie-Komputer\Desktop\git\kalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.Form1.resources
+C:\Users\student.robbie-Komputer\Desktop\git\kalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.Properties.Resources.resources
+C:\Users\student.robbie-Komputer\Desktop\git\kalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.csproj.GenerateResource.Cache
