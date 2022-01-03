@@ -1,0 +1,7 @@
+c:\users\student.robbie-komputer\documents\visual studio 2010\Projects\KalkulatorGitHub\KalkulatorGitHub\bin\Debug\KalkulatorGitHub.exe
+c:\users\student.robbie-komputer\documents\visual studio 2010\Projects\KalkulatorGitHub\KalkulatorGitHub\bin\Debug\KalkulatorGitHub.pdb
+c:\users\student.robbie-komputer\documents\visual studio 2010\Projects\KalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.Form1.resources
+c:\users\student.robbie-komputer\documents\visual studio 2010\Projects\KalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.Properties.Resources.resources
+c:\users\student.robbie-komputer\documents\visual studio 2010\Projects\KalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.csproj.GenerateResource.Cache
+c:\users\student.robbie-komputer\documents\visual studio 2010\Projects\KalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.exe
+c:\users\student.robbie-komputer\documents\visual studio 2010\Projects\KalkulatorGitHub\KalkulatorGitHub\obj\x86\Debug\KalkulatorGitHub.pdb
