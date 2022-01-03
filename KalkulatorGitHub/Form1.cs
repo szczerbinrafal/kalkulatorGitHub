@@ -62,5 +62,13 @@ namespace KalkulatorGitHub
             //li2 = Convert.ToDecimal(textBox2.Text);
             textBox2.Text = Convert.ToString(li1 * li1);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double num1 = Convert.ToDouble(textBox3.Text);
+            num1 = Math.Sqrt(num1);
+            textBox4.Text = Convert.ToString(num1);
+
+        }
     }
 }
