@@ -17,6 +17,7 @@ namespace KalkulatorGitHub
         }
 
         decimal numberA, numberB;
+        int a;
 
         
 
